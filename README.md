@@ -10,7 +10,10 @@ rally-website/               ← root van je project
 
 │   │   ├── ![IMG_6843](https://github.com/user-attachments/assets/412630c1-f375-4a72-b6f6-bc2178e91926)
 
-│   │   ├── foto3.jpg
+│   │   ├── ![IMG_6844](https://github.com/user-attachments/assets/a7754f7e-7377-4469-9b0b-db33e6c0c7ec)
+![IMG_6848](https://github.com/user-attachments/assets/fefa2827-564c-4c13-8e0a-f6e2fb1e9fb0)
+![IMG_6849](https://github.com/user-attachments/assets/0a4c7c14-ff20-4dff-92d2-9b50bb0be036)
+
 │   │   ├── interview.txt
 │   │   └── video.txt         ← hier zet je de YouTube/Drive embed link
 │   │
