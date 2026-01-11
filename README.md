@@ -6,8 +6,10 @@ rally-website/               ← root van je project
 │
 ├── 2025/                    ← Seizoen 2025
 │   ├── B-short_Solre-Saint-Gery/
-│   │   ├── foto1.jpg
-│   │   ├── foto2.jpg
+│   │   ├── ![IMG_6437](https://github.com/user-attachments/assets/a03e2914-7fbc-442d-bdda-648337dfa58a)
+
+│   │   ├── ![IMG_6843](https://github.com/user-attachments/assets/412630c1-f375-4a72-b6f6-bc2178e91926)
+
 │   │   ├── foto3.jpg
 │   │   ├── interview.txt
 │   │   └── video.txt         ← hier zet je de YouTube/Drive embed link
